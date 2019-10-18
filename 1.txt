@@ -1,0 +1,8 @@
+#infofilen 
+01:Claus Pedersen
+02:Frederiksvej 18, 4.tv.
+03:2000 Frederiksberg
+04:cp@adante.dk
+05:clpd@pcsys.dk
+06:+45 42772162
+07:+45 88335774
